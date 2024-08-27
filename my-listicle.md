@@ -4,11 +4,16 @@
 
 1. Mimikyu
    -(https://pokemondb.net/pokedex/mimikyu)
-2. Sableye
+   ![Mimikyu](https://img.pokemondb.net/artwork/avif/mimikyu.avif)
+3. Sableye
    -(https://pokemondb.net/pokedex/sableye)
-3. Aerodactyl
+   ![Sableye](https://img.pokemondb.net/artwork/avif/sableye.avif)
+5. Aerodactyl
    -(https://pokemondb.net/pokedex/aerodactyl)
-4. Politoed
+   ![Aerodactyl](https://pokemondb.net/pokedex/aerodactyl)
+7. Politoed
    -(https://pokemondb.net/pokedex/politoed)
-5. Latias
+   ![Politoed](https://img.pokemondb.net/artwork/avif/politoed.avif)
+9. Latias
    -(https://pokemondb.net/pokedex/latias)
+   ![Latias](https://img.pokemondb.net/artwork/avif/latias.avif)
