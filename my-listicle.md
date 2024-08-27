@@ -2,9 +2,8 @@
 
 ## My List of Favorite Pokemons
 
----
 
-1. Mimikyu
+1. **Mimikyu**
    - (https://pokemondb.net/pokedex/mimikyu)
 2. Sabeleye
    - 
