@@ -10,7 +10,7 @@
    ![Sableye](https://img.pokemondb.net/artwork/avif/sableye.avif)
 3. Aerodactyl (https://pokemondb.net/pokedex/aerodactyl)
    ---
-   ![Aerodactyl](https://pokemondb.net/pokedex/aerodactyl)
+   ![Aerodactyl](https://img.pokemondb.net/artwork/avif/aerodactyl.avif)
 4. Politoed (https://pokemondb.net/pokedex/politoed)
    ---
    ![Politoed](https://img.pokemondb.net/artwork/avif/politoed.avif)
